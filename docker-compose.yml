@@ -1,0 +1,47 @@
+version: '3.8'
+
+networks:
+  fullstackusers-net:
+    driver: bridge
+
+services:
+  db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: fullstackusers-db
+    environment:
+      SA_PASSWORD: "Senh@T3ste"
+      ACCEPT_EULA: "Y"
+    ports:
+      - "1433:1433"
+    volumes:
+      - fullstackusers_db_data:/var/opt/mssql
+    networks:
+      - fullstackusers-net
+
+  api:
+    build:
+      context: ./FullstackUsers/
+      dockerfile: ./FullstackUsers.Api/Dockerfile
+    image: fullstackusers-api
+    ports:
+      - "5000:80"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultDatabase=Server=db;Password=Senh@T3ste;User Id=sa;Database=FullstackUsers;Encrypt=false;TrustServerCertificate=true
+    depends_on:
+      - "db"
+    networks:
+      - fullstackusers-net
+
+  frontend:
+    build:
+      context: ./FullstackUsers.FrontEnd
+      dockerfile: Dockerfile
+    image: fullstackusers-frontend
+    ports:
+      - "4200:4200"
+    networks:
+      - fullstackusers-net
+
+volumes:
+  fullstackusers_db_data:

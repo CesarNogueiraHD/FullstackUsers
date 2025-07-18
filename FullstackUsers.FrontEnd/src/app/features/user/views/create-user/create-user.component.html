@@ -1,0 +1,71 @@
+<h1>Criar usuário</h1>
+
+<form [formGroup]="form" (ngSubmit)="createUser()">
+  <h2 class="title">Criar</h2>
+  <mat-form-field>
+    <mat-label>Nome</mat-label>
+    <input
+      matInput
+      placeholder="Nome completo"
+      formControlName="name"
+      required
+    />
+    <mat-error *ngIf="form.controls.name.errors"
+      >O nome é obrigatório</mat-error
+    >
+  </mat-form-field>
+
+  <mat-form-field>
+    <mat-label>Email</mat-label>
+    <input
+      matInput
+      placeholder="email@email.com"
+      formControlName="email"
+      required
+    />
+    <mat-error *ngIf="form.controls.email.errors"
+      >O email é obrigatório</mat-error
+    >
+  </mat-form-field>
+
+  <mat-form-field>
+    <mat-label>Senha</mat-label>
+    <input
+      matInput
+      placeholder="*****"
+      type="password"
+      formControlName="password"
+      required
+    />
+    <mat-error *ngIf="form.controls.password.errors"
+      >A senha é obrigatória</mat-error
+    >
+  </mat-form-field>
+
+  <mat-form-field>
+    <mat-label>Confirmação de senha</mat-label>
+    <input
+      matInput
+      placeholder="*****"
+      type="password"
+      formControlName="passwordConfirmation"
+      required
+    />
+    <mat-error *ngIf="form.controls.passwordConfirmation.errors"
+      >A confirmação da senha é obrigatória</mat-error
+    >
+  </mat-form-field>
+
+  <mat-form-field>
+    <mat-label>Data de nascimento</mat-label>
+    <input
+      mask="d0/M0/0000"
+      [dropSpecialCharacters]="false"
+      matInput
+      placeholder="{{ currentDate | date : 'dd/MM/yyyy' }}"
+      formControlName="birth"
+    />
+  </mat-form-field>
+
+  <button class="btn-login" type="submit">Salvar</button>
+</form>

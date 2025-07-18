@@ -1,0 +1,14 @@
+mat-sidenav-container,
+mat-sidenav-content {
+  height: 100%;
+}
+
+mat-sidenav {
+  width: 20%;
+  min-width: 300px;
+  background-color: #5050ff;
+}
+
+.isAuthenticated {
+  padding: 15px;
+}

@@ -1,0 +1,13 @@
+<mat-sidenav-container>
+  <mat-sidenav mode="side" opened class="mat-sidenav" *ngIf="isAuthenticated">
+    <app-sidenav />
+  </mat-sidenav>
+  <mat-sidenav-content>
+    <div class="isAuthenticated" *ngIf="isAuthenticated; else elseBlock">
+      <router-outlet />
+    </div>
+    <ng-template #elseBlock>
+      <router-outlet />
+    </ng-template>
+  </mat-sidenav-content>
+</mat-sidenav-container>

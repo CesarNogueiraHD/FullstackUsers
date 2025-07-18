@@ -1,0 +1,12 @@
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Core\bin\Debug\net8.0\FullstackUsers.Core.deps.json
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Core\bin\Debug\net8.0\FullstackUsers.Core.dll
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Core\bin\Debug\net8.0\FullstackUsers.Core.pdb
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Core\obj\Debug\net8.0\FullstackUsers.Core.csproj.AssemblyReference.cache
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Core\obj\Debug\net8.0\FullstackUsers.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Core\obj\Debug\net8.0\FullstackUsers.Core.AssemblyInfoInputs.cache
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Core\obj\Debug\net8.0\FullstackUsers.Core.AssemblyInfo.cs
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Core\obj\Debug\net8.0\FullstackUsers.Core.csproj.CoreCompileInputs.cache
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Core\obj\Debug\net8.0\FullstackUsers.Core.dll
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Core\obj\Debug\net8.0\refint\FullstackUsers.Core.dll
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Core\obj\Debug\net8.0\FullstackUsers.Core.pdb
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Core\obj\Debug\net8.0\ref\FullstackUsers.Core.dll

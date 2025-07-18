@@ -1,0 +1,17 @@
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Infra\bin\Debug\net8.0\FullstackUsers.Infra.deps.json
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Infra\bin\Debug\net8.0\FullstackUsers.Infra.runtimeconfig.json
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Infra\bin\Debug\net8.0\FullstackUsers.Infra.dll
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Infra\bin\Debug\net8.0\FullstackUsers.Infra.pdb
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Infra\bin\Debug\net8.0\FullstackUsers.Core.dll
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Infra\bin\Debug\net8.0\FullstackUsers.Core.pdb
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Infra\obj\Debug\net8.0\FullstackUsers.Infra.csproj.AssemblyReference.cache
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Infra\obj\Debug\net8.0\FullstackUsers.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Infra\obj\Debug\net8.0\FullstackUsers.Infra.AssemblyInfoInputs.cache
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Infra\obj\Debug\net8.0\FullstackUsers.Infra.AssemblyInfo.cs
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Infra\obj\Debug\net8.0\FullstackUsers.Infra.csproj.CoreCompileInputs.cache
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Infra\obj\Debug\net8.0\Fullstac.BC971EF1.Up2Date
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Infra\obj\Debug\net8.0\FullstackUsers.Infra.dll
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Infra\obj\Debug\net8.0\refint\FullstackUsers.Infra.dll
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Infra\obj\Debug\net8.0\FullstackUsers.Infra.pdb
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Infra\obj\Debug\net8.0\FullstackUsers.Infra.genruntimeconfig.cache
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Infra\obj\Debug\net8.0\ref\FullstackUsers.Infra.dll

@@ -1,0 +1,25 @@
+:host {
+  display: block;
+}
+
+mat-form-field {
+  width: 50%;
+}
+
+.btn-login {
+  width: 50%;
+  height: 60px;
+  background: linear-gradient(to left, #1af891, #93fc22);
+  border: none;
+  border-radius: 10px;
+  font-size: 24px;
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+form {
+  display: flex;
+  height: 60%;
+  flex-direction: column;
+}

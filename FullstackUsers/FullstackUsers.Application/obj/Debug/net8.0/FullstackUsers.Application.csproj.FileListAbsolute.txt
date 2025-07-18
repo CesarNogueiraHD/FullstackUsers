@@ -1,0 +1,17 @@
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Application\bin\Debug\net8.0\FullstackUsers.Application.deps.json
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Application\bin\Debug\net8.0\FullstackUsers.Application.dll
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Application\bin\Debug\net8.0\FullstackUsers.Application.pdb
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Application\bin\Debug\net8.0\FullstackUsers.Core.dll
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Application\bin\Debug\net8.0\FullstackUsers.Infra.dll
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Application\bin\Debug\net8.0\FullstackUsers.Core.pdb
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Application\bin\Debug\net8.0\FullstackUsers.Infra.pdb
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Application\obj\Debug\net8.0\FullstackUsers.Application.csproj.AssemblyReference.cache
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Application\obj\Debug\net8.0\FullstackUsers.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Application\obj\Debug\net8.0\FullstackUsers.Application.AssemblyInfoInputs.cache
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Application\obj\Debug\net8.0\FullstackUsers.Application.AssemblyInfo.cs
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Application\obj\Debug\net8.0\FullstackUsers.Application.csproj.CoreCompileInputs.cache
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Application\obj\Debug\net8.0\Fullstac.84A77E90.Up2Date
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Application\obj\Debug\net8.0\FullstackUsers.Application.dll
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Application\obj\Debug\net8.0\refint\FullstackUsers.Application.dll
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Application\obj\Debug\net8.0\FullstackUsers.Application.pdb
+D:\Workspace\Testes\EmpresaBerrini\FullstackUsers\FullstackUsers.Application\obj\Debug\net8.0\ref\FullstackUsers.Application.dll

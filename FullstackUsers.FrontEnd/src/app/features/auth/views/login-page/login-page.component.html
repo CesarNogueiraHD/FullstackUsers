@@ -1,0 +1,33 @@
+<div class="container-form">
+  <form [formGroup]="form" (ngSubmit)="login()">
+    <h2 class="title">Login</h2>
+    <mat-form-field>
+      <mat-label>Email</mat-label>
+      <input
+        matInput
+        placeholder="email@email.com"
+        formControlName="email"
+        required
+      />
+      <mat-error *ngIf="form.controls.email.errors"
+        >O email é obrigatório</mat-error
+      >
+    </mat-form-field>
+
+    <mat-form-field>
+      <mat-label>Senha</mat-label>
+      <input
+        matInput
+        placeholder="*****"
+        type="password"
+        formControlName="password"
+        required
+      />
+      <mat-error *ngIf="form.controls.password.errors"
+        >A senha é obrigatória</mat-error
+      >
+    </mat-form-field>
+
+    <button class="btn-login" type="submit">Entrar</button>
+  </form>
+</div>
